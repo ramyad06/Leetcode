@@ -26,4 +26,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramyad06/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ramyad06/Leetcode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ramyad06/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ramyad06/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
